@@ -1,0 +1,8 @@
+ *{
+    margin: 0px ;
+    padding: 0px ;
+ }
+ .menu-container{
+    background-color: black;
+    display: flex;
+ }
